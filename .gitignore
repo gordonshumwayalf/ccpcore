@@ -10,3 +10,5 @@ scripts/python/*.pyc
 
 # MacOS-specific
 .DS_Store
+
+.less
